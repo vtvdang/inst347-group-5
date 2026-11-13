@@ -50,6 +50,6 @@ You don't need this for class. GitHub Actions builds and deploys for you.
 
 <!-- Replace with your names, roles and links to your live site and API -->
 - Team members: Charles Ritz, Steven Arentz, Vivian Dang, Seun, Jeffrey 
-- Azure host (owns the resource group): 
+- Azure host (owns the resource group): Jeffrey Navarro
 - Live website: 
 - API: 
